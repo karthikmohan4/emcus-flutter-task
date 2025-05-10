@@ -1,5 +1,11 @@
 ## Emcus Task
 
+## APK
+[Download](app-arm64-v8a-release.apk)
+
+
+## Demonstration link
+  https://drive.google.com/file/d/1aqbM50mzsTF3CqperoK1Q6JK0xWYlgDd/view?usp=sharing
 
 
 ## ✅ Prerequisites
